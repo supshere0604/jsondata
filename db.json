@@ -6,7 +6,7 @@
       "address": "Pune",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "address": "Mumbai",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "address": "Kolhapur",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "address": "Aurangabad",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "address": "Dhule",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "address": "Nasik",
       "images": "hello",
       "contacts": "hello",
-      "dates": "hello",
+      "dates": "hello"
     }
   ],
   "profile": {
