@@ -1,0 +1,55 @@
+{
+  "camps": [
+    {
+      "id": 1,
+      "location": "Pune",
+      "address": "Pune",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    },
+    {
+      "id": 2,
+      "location": "Mumbai",
+      "address": "Mumbai",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    },
+    {
+      "id": 3,
+      "location": "Kolhapur",
+      "address": "Kolhapur",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    },
+    {
+      "id": 4,
+      "location": "Aurangabad",
+      "address": "Aurangabad",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    },
+    {
+      "id": 5,
+      "location": "Dhule",
+      "address": "Dhule",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    },
+    {
+      "id": 6,
+      "location": "Nasik",
+      "address": "Nasik",
+      "images": "hello",
+      "contacts": "hello",
+      "dates": "hello",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
